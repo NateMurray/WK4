@@ -1,4 +1,14 @@
-/*Nathaniel Murray*/
+/*Nathaniel Murray 10/2/25*/
+
+nav {
+  height: 35px;
+}
+
+main{
+  font-weight: bold;
+  background-image: url(background.webp);
+  background-repeat: repeat-x;
+}
 
 body {
   font-family: "Arial", sans-serif;
